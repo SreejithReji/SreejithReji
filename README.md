@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sreejith Reji
 
-<!--
-**SreejithReji/SreejithReji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently learning Python, SQL, and cybersecurity with a focus on SOC Analyst skills.
 
-Here are some ideas to get you started:
+## Current Focus
+- Python for log parsing and automation
+- SQL for querying security data
+- Windows security fundamentals
+- Active Directory basics
+- SOC workflows and incident investigation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- SOC Log Analyzer — In progress
+- SQL Security Investigation Lab — Planned
+- Windows Event Log Notes — Planned
+
+## Goal
+To build practical cybersecurity projects and develop skills for entry-level SOC Analyst roles.
+
+## Contact
+- LinkedIn: www.linkedin.com/in/sreejithreji

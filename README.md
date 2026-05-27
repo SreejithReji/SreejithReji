@@ -1,17 +1,19 @@
 # Hi, I'm Sreejith Reji 👋
 
-### Cybersecurity Professional | MSc Cyber Security | CEH | Security+
+### Cybersecurity Professional | MSc Cyber Security | CEH | Security+ | SOC Analyst (L1)
 
-I hold a Masters in Cyber Security with industry certifications, and I am currently building hands-on Python scripting and SQL skills applied directly to real SOC workflows — log analysis, threat detection, IOC enrichment, and security automation.
+I hold a Masters in Cyber Security with industry certifications, and I am currently building hands-on Python scripting, SQL, KQL and SPL skills applied directly to real SOC workflows — log analysis, threat detection, IOC enrichment, and security automation.
 
 ---
 
 ## 🎯 Current Focus
 
 - 🐍 **Python** — log parsing, automation, API integration, IOC enrichment
-- 🗄️ **SQL** — querying security data, SIEM exports, investigation workflows
+- 🔍 **KQL** — Microsoft Sentinel and Defender XDR threat hunting
+- 🔎 **SPL** — Splunk alert investigation and detection engineering
+- 🗄️ **SQL** — querying security data and SIEM exports
 - 🪟 **Windows Security** — Event Log analysis, Active Directory fundamentals
-- 🔍 **SOC workflows** — alert triage, incident investigation, shift reporting
+- 🔵 **SOC workflows** — alert triage, incident investigation, shift reporting
 
 ---
 
@@ -20,7 +22,9 @@ I hold a Masters in Cyber Security with industry certifications, and I am curren
 | Project | Status | Description |
 |---|---|---|
 | [soc-python-tools](https://github.com/SreejithReji/soc-python-tools) | 🔨 In progress | Python scripts for SOC automation — IOC checker, log analyser, alert triage |
-| [soc-sample-logs](https://github.com/SreejithReji/soc-sample-logs) | ✅ Live | Realistic SOC log files simulating a full attack lifecycle |
+| [soc-sample-logs](https://github.com/SreejithReji/soc-sample-logs) | ✅ Live | 500-line realistic SOC log files simulating a full attack lifecycle |
+| [kql-soc-queries](https://github.com/SreejithReji/kql-soc-queries) | ✅ Live | Comprehensive KQL query library for Microsoft Sentinel and Defender XDR |
+| [spl-soc-queries](https://github.com/SreejithReji/spl-soc-queries) | ✅ Live | Comprehensive SPL query library for Splunk SOC analysts |
 | [cybersecurity-portfolio](https://github.com/SreejithReji/cybersecurity-portfolio) | ✅ Live | Full portfolio — tools, skills, and learning roadmap |
 | SQL Security Investigation Lab | 📋 Planned | SQL queries for security data analysis |
 | Windows Event Log Notes | 📋 Planned | Reference notes for Windows security event IDs |
@@ -37,11 +41,19 @@ I hold a Masters in Cyber Security with industry certifications, and I am curren
 
 ## 🧰 Technical Skills
 
-**Security:** SIEM analysis · Log analysis · Threat intelligence · IOC enrichment · Incident response · MITRE ATT&CK · OWASP Top 10
+**Security:** SIEM analysis · Alert triage · Log analysis · Threat intelligence · IOC enrichment · Incident response · MITRE ATT&CK · OWASP Top 10
 
-**Programming:** Python · SQL · Regex · Git
+**Query Languages:** KQL (Microsoft Sentinel) · SPL (Splunk) · SQL
 
-**Tools:** Wireshark · Nmap · VirusTotal API · AbuseIPDB · Shodan
+**Programming:** Python · Regex · Git · GitHub
+
+**Tools:** Wireshark · Nmap · VirusTotal API · AbuseIPDB · Shodan · Microsoft Sentinel · Splunk
+
+---
+
+## 📊 GitHub Stats
+
+![Sreejith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SreejithReji&show_icons=true&theme=dark&hide_border=true)
 
 ---
 

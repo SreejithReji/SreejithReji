@@ -1,6 +1,6 @@
 # Hi, I'm Sreejith Reji 👋
 
-### Cybersecurity Professional | MSc Cyber Security | CEH | Security+ | SOC Analyst (L1)
+### Cybersecurity Professional | MSc Cyber Security | CEH | Security+
 
 I hold a Masters in Cyber Security with industry certifications, and I am currently building hands-on Python scripting, SQL, KQL and SPL skills applied directly to real SOC workflows — log analysis, threat detection, IOC enrichment, and security automation.
 
